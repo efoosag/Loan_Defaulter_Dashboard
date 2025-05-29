@@ -70,11 +70,11 @@ Based on the analysis, we recommend the following actions:
    Establish a real-time dashboard to track at-risk loans by grade, DTI, and payment behaviour.
    Automate alerts for missed payments or changes in borrower risk profiles.
 6. Incentivise Repayment for At-Risk Groups
-   Provide incentives, interest rate discounts, credit score improvements, or rewards for borrowers in risk-prone categories (Grades C–E) who maintain consistent repayment.
+   Provide incentives, interest rate discounts, credit score improvements, or rewards for borrowers in risk-prone categories who maintain consistent repayment.
    
 ### Limitations
-    We had to replace null values in the Annual income column with the average values of entries with values.
-    We also remove all duplicate entries in order to get an unbiased result.
+-  We had to replace null values in the Annual income column with the average values of entries with values.
+-  We also remove all duplicate entries in order to get an unbiased result.
     
 ### Collaborators
 -  [@efoosag](https://www.linkedin.com/in/efoosag)
