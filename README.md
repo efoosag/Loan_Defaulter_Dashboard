@@ -1,4 +1,4 @@
-# My Data Analysis Template
+# ABZ - Loan Default Dashboard
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
@@ -13,9 +13,11 @@
 - [References](#references)
   
 ### Project Overview
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
-![Screenshot (2)](https://github.com/user-attachments/assets/62ddfe64-b7ff-4c73-befa-e969cbd8a1ab)
+This data analysis project aims to provide insights into the underlying factors causing an increase in Loan defaults by customers at ABZ Limited. By analyzing various aspects of the data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the ABZ customers' Loan Behaviour.
 
+<img width="704" alt="Loan_Dashboard_1" src="https://github.com/user-attachments/assets/addc468e-0eb8-4711-8ef4-2d708ad36245" />
+
+<img width="675" alt="Loan_Dashboard_2" src="https://github.com/user-attachments/assets/7f165c82-09dd-47ee-ae5b-ad5af64773d4" />
 
 ### Data Sources
 Sales Data: The primary dataset used for this analysis is the "sales_data.csv" file, containing detailed information about each sale made by the company.
