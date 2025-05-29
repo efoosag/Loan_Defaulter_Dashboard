@@ -9,6 +9,7 @@
 - [Results and Findings](#results-and-findings)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
+- [Collaborators](#collaborators)
 - [References](#references)
   
 ### Project Overview
@@ -22,8 +23,6 @@ This data analysis project aims to provide insights into the underlying factors 
 Loan Data: The primary dataset used for this analysis is the "loan_info.csv" file, which contains detailed information about each customer's loan details provided by the company.
 
 ### Tools
--  Excel - Data Cleaning
-   -  Download here
 -  Excel - Data Analysis
 -  Power BI - Creating reports
   
@@ -76,6 +75,7 @@ Based on the analysis, we recommend the following actions:
 ### Limitations
     We had to replace null values in the Annual income column with the average values of entries with values.
     We also remove all duplicate entries in order to get an unbiased result.
+    
 ### Collaborators
 -  [@efoosag](https://www.linkedin.com/in/efoosag)
 -  [@Mercysmart](https://www.linkedin.com/in/mercy-mercysmart-338628218/)
